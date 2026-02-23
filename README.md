@@ -15,7 +15,7 @@ The primary goal is to create an affordable, accessible, and easy-to-use assisti
 
 ---
 
-## 🎯 Objectives
+## 🎯 Objectives 
 
 - Enable hands-free wheelchair control using Bluetooth-transmitted voice commands.
 - Ensure smooth, safe, and reliable motor operation.
