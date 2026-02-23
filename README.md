@@ -172,5 +172,3 @@ void loop() {
 The Bluetooth-based voice-controlled wheelchair demonstrates how affordable embedded systems can improve independent mobility. By combining Arduino, Bluetooth communication, and motor control, a simple yet effective assistive technology solution is achieved.
 
 ---
-
-⭐ Star this repository if you found it useful.
